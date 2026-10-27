@@ -1,0 +1,6 @@
+{
+  "name": "Data Guard Pro",
+  "description": "تطبيق مراقبة استهلاك بيانات الجوال والواي فاي مع إحصائيات التطبيقات وتحليل الرسوم البيانية بدعم كامل للغة العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

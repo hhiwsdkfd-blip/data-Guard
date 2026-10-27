@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Stroke with Gradient -->
+    <path
+        android:pathData="M54,26 C68,26 80,31 80,44 C80,62 54,82 54,82 C54,82 28,62 28,44 C28,31 40,26 54,26 Z"
+        android:strokeWidth="4"
+        android:strokeColor="#00D2C4"
+        android:fillColor="#0D2A45" />
+
+    <!-- Bar 1 (Left, shorter) -->
+    <path
+        android:fillColor="#00D2C4"
+        android:pathData="M39,52 L43,52 A1,1 0 0,1 44,53 L44,63 A1,1 0 0,1 43,64 L39,64 A1,1 0 0,1 38,63 L38,53 A1,1 0 0,1 39,52 Z" />
+
+    <!-- Bar 2 (Middle, medium) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M47,44 L51,44 A1,1 0 0,1 52,45 L52,63 A1,1 0 0,1 51,64 L47,64 A1,1 0 0,1 46,63 L46,45 A1,1 0 0,1 47,44 Z" />
+
+    <!-- Bar 3 (Right, tallest) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M55,36 L59,36 A1,1 0 0,1 60,37 L60,63 A1,1 0 0,1 59,64 L55,64 A1,1 0 0,1 54,63 L54,37 A1,1 0 0,1 55,36 Z" />
+
+    <!-- Security Lock at bottom center of shield -->
+    <!-- Shackle -->
+    <path
+        android:strokeColor="#00D2C4"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M50,67 C50,64.8 51.8,63 54,63 C56.2,63 58,64.8 58,67 L58,70 L50,70 Z" />
+    <!-- Lock Body -->
+    <path
+        android:fillColor="#00D2C4"
+        android:pathData="M48,70 L60,70 A2,2 0 0,1 62,72 L62,78 A2,2 0 0,1 60,80 L48,80 A2,2 0 0,1 46,78 L46,72 A2,2 0 0,1 48,70 Z" />
+    <!-- Keyhole -->
+    <path
+        android:fillColor="#091424"
+        android:pathData="M54,73 A1,1 0 1,1 54,75 L54,77 L53.5,77 L54.5,77 Z" />
+</vector>

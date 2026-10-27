@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_cyan">#00D2C4</color>
+    <color name="primary_blue">#0096C7</color>
+    <color name="bg_dark">#0B1220</color>
+    <color name="card_dark">#152033</color>
+    <color name="mobile_green">#10B981</color>
+    <color name="wifi_cyan">#06B6D4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
